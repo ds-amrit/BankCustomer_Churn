@@ -11,7 +11,8 @@ this group than it is in precisely predicting the clients who are retained.
 
 Performing Bi-variate categorical analysis using countplots:
 
-![image](https://user-images.githubusercontent.com/107737679/189734769-9effb014-159d-4928-9b4a-4e5490fdc565.png)
+![image](https://user-images.githubusercontent.com/107737679/189735660-cfc67cb1-177b-45a9-93d4-c605897821e7.png)
+
 
 Observations from the data:
 1. The vast majority of the data comes from French citizens. 
