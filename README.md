@@ -1,5 +1,5 @@
 # BankCustomer_Churn
-Predicting the bank customer churn status using machine learning models.
+GOAL:  Predicting the bank customer's churn status using machine learning models.
 
 ![image](https://user-images.githubusercontent.com/107737679/189734204-efffe43a-7b4c-4b11-91cc-f6343ce4e3e6.png)
 
