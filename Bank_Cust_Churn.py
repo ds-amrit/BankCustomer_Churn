@@ -101,12 +101,16 @@ sns.boxplot(x="Exited",y="Balance",data=df,hue="Exited",ax=ax3[1][1])
 sns.boxplot(x="Exited",y="NumOfProducts",data=df,hue="Exited",ax=ax3[2][0])
 sns.boxplot(x="Exited",y="EstimatedSalary",data=df,hue="Exited",ax=ax3[2][1])
 
+# Splitting the dataset for training and validation.
 df_train = df.sample(frac=0.8,random_state=1)
 df_test = df.drop(df_train.index)
 print(len(df_train))
 print(len(df_test))
 
+# Filtering the training dataset for numerical columns.
 df_num = df_train.select_dtypes(include ='number')
+
+# Filtering the categorical columns from the dataset.
 df_cat = df_train.drop(list(df_num.columns),axis=1)
 df_cat.reset_index(inplace=True,drop =True)
 
