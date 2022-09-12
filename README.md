@@ -32,3 +32,13 @@ Performing Bi-variate Numerical analysis using boxplots:
 
 ![image](https://user-images.githubusercontent.com/107737679/189735196-a0befbc7-2578-4f64-a980-311c1a9bfc05.png)
 
+
+Machine Learning Models used and their scores on test data:
+![image](https://user-images.githubusercontent.com/107737679/189757001-8d48ae89-3aec-4071-962c-f8e48da1a408.png)
+
+
+
+
+
+
+
